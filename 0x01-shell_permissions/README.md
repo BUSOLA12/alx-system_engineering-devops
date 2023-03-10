@@ -4,3 +4,4 @@ Description of each project from 0-17
 2. It prints all the groups the current user is part of
 3. It changes the owner of a file
 4. It creates an empty file
+5. It adds execute permission to the owner of a file
