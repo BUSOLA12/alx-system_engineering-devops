@@ -14,3 +14,4 @@ Description of each project from 0-17
 11. It adds permittion to a sud-directories in my current working directory
 12. It creates a directory and adds permissions to the directory simultaneously
 13. It change the group that owns a file
+14. It changes the ownership of aa files and directory of the ownerand group owner in the current working directory
