@@ -7,4 +7,6 @@ Description of each project from 0-17
 5. It adds execute permission to the owner of a file
 6. It  adds execute permission to the owner and the group owner, and read permission to other users, to a file hello
 7. It  a script that adds execution permission to the owner, the group owner and the other users, to a file
-8. It script that set all permission for others only
+8. It a script that set all permission for others only
+9. It a script that sets the mode of the file hello to this:
+-rwxr-x-wx
