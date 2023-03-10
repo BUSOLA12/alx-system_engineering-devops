@@ -1,3 +1,3 @@
 Description of each project from 0-17
-1. It switches user
-
+0. It switches user
+1. It prints the effective username of the current user
