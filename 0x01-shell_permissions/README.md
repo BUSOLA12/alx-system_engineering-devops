@@ -16,3 +16,5 @@ Description of each project from 0-17
 13. It change the group that owns a file
 14. It changes the ownership of all files and directory of the ownerand group owner in the current working directory
 15. It changes the ownership of a symbolic link of the ownerand group owner
+16. It changes the ownership of a file only if the file is owned by a particular person
+17. 
