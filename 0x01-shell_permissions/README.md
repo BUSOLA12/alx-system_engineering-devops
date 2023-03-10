@@ -10,3 +10,4 @@ Description of each project from 0-17
 8. It a script that set all permission for others only
 9. It a script that sets the mode of the file hello to this:
 -rwxr-x-wx
+10. It changes the mode of a file based on the mode of another file
