@@ -3,3 +3,4 @@
 3. a script that displays the content of a file
 4. and more files
 5. It displays last lines
+6. It displays first lines
