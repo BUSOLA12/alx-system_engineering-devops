@@ -6,3 +6,4 @@
 5. It displays first lines
 6. It displays the third line
 7. It redirect an echo to a file
+8. It writes into a file the results of a command
