@@ -9,3 +9,4 @@
 8. It writes into a file the results of a command
 9. It duplicates the last line of the content of a file
 10. it searches files with a specific name or extention and deletes them
+11. It searches for directies exclude some and count the remaining
